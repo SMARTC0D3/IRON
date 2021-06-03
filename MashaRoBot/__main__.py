@@ -74,14 +74,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Yo,my name is ᎩᏬᎥ
-I am a group management bot which can help you to manage group easy You can see my cmd in help button *POWERED* BY *@BotProtocol* [.](https://telegra.ph/file/ba29e4d3c2b2dd0e2deac.jpg)
+уσ,му иαмє ιѕ ιяσи мαи
+  ι αм α gяσυρ мαиαgємєит вσт ωнι¢н ¢αи нєℓρ уσυ тσ мαиαgє gяσυρ єαѕу уσυ ¢αи ѕєє му ¢м∂ ιи нєℓρ вυттσи [.](https://telegra.ph/file/ba29e4d3c2b2dd0e2deac.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="❤️ᎩᏬᎥ❤️", url="t.me/Yuigahama_yui_robot?startgroup=true"),
+            text="α∂∂ ιяσи мαи", url="t.me/IR0N_MAN_ROBOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️ABOUT", callback_data="masha_"),
@@ -89,12 +89,12 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨UPDATES✨", url="https://t.me/logs_yui_bot"),
+            text="✨UPDATES✨", url="https://t.me/updates_iron_man"),
         InlineKeyboardButton(
-            text="👥SUPPORT👥", url="https://t.me/chat_support_yui_robot"),
+            text="👥SUPPORT👥", url="https://t.me/IRON_CHAT_SUPPORT"),
     ],
     [  
-        InlineKeyboardButton(text="Bot-protocol", url="https://t.me/BotProtocol"),
+        InlineKeyboardButton(text="O̊W̊N̊E̊R̊", url="https://t.me/PHOENlX_0P"),
     ], 
     
 ]
@@ -102,10 +102,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-*ᎩᏬᎥ comes with many special features in it*
+*IRΩΠ MΔΠ comes with many special features in it*
 *CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ᎩᏬᎥ*
 👷 *All commands can either be used with* `/` *or* `!`.
-👷 *If you facing any issue or find any bugs in any command then you can report it in @chat_support_yui_robot* [.](https://telegra.ph/file/e5cbf8ba4723a8ac34f68.jpg)
+👷 *If you facing any issue or find any bugs in any command then you can report it in @IRON_CHAT_SUPPORT * [.](https://telegra.ph/file/55677200da8871fecff22.jpg)
 """
 
 
