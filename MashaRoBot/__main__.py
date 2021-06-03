@@ -102,10 +102,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-*IRΩΠ MΔΠ comes with many special features in it*
-*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ᎩᏬᎥ*
-👷 *All commands can either be used with* `/` *or* `!`.
-👷 *If you facing any issue or find any bugs in any command then you can report it in @IRON_CHAT_SUPPORT * [.](https://telegra.ph/file/55677200da8871fecff22.jpg)
+*IRΩΠ MΔΠ ¢σмєѕ ωιтн мαиу ѕρє¢ιαℓ fєαтυяєѕ ιи ιт*
+*¢нє¢к αℓℓ вυттσи вєℓσω тσ єχρℓσяє єνєяу ¢σммαи∂ѕ σf ιяσи мαи*
+👷 *αℓℓ ¢σммαи∂ѕ ¢αи єιтнєя вє υѕє∂ ωιтн* `/` *or* `!`.
+👷 *ιf уσυ fα¢ιиg αиу ιѕѕυє σя fιи∂ αиу вυgѕ ιи αиу ¢σммαи∂ тнєи уσυ ¢αи яєρσят ιт ιи @IRON_CHAT_SUPPORT * [.](https://telegra.ph/file/55677200da8871fecff22.jpg)
 """
 
 
